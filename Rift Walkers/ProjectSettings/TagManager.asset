@@ -11,19 +11,20 @@ TagManager:
   - Interactable
   - Trap
   - Enemy
+  - Collectable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Interactable
+  - Anomaly
+  - Enemy
+  - Trap
+  - Collectable
   - 
   - 
   - 
